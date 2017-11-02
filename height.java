@@ -20,6 +20,7 @@ public class height {
             a[i]=sc.nextInt();
             b.add(a[i]);
         }
+	System.out.println(“hello”);
         k=sc.nextInt();
         for(i=0;i<=k;i++)
         {
@@ -33,6 +34,6 @@ public class height {
                 }
             }
         }        
-        System.out.println(b.indexOf(a[k]));
+        System.out.println(b.indexOf(a[k])+”git learning”);
     }
 }
