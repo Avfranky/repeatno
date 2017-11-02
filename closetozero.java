@@ -33,6 +33,6 @@ public class closetozero {
                }
             }
         }
-        System.out.print(s[n]+" "+s[m]);        
+        System.out.print(s[n]+" "+s[m]+"hello this is my new try");        
     }
 }
