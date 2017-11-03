@@ -3,7 +3,7 @@ package guvi;
 
 import java.util.LinkedList;
 import java.util.Scanner;
-
+/////try executing in the simplest way
 public class repeatlist {
    public static void main(String args[])
    {
