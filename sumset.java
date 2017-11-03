@@ -26,6 +26,6 @@ public class sumset {
                 }
             }
         }
-        System.out.println(b+" "+c);
+        System.out.println(b+" + "+c);
     }
 }
