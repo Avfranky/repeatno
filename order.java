@@ -20,7 +20,7 @@ public class order {
                     s1[j]=temp;
                 }
             }
-            System.out.print(s1[i]);
+            System.out.print(s1[I]+”.  sdcZ“);
         }        
     }
 }
